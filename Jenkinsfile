@@ -1,5 +1,5 @@
 @Library('Mohit-demo') _
-import com.sharedlib.SharedLibrary;
+import com.sharedlibs.SharedLibrary;
 //new SharedLibrary(steps).startBuild()
 def sharedLib = new SharedLibrary(this)
 pipeline {
